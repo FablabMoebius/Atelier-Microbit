@@ -2,7 +2,6 @@
 
 # Importations
 import microbit as m
-import time
 
 # Initialisations
 tabImg=[      #Stocke les images
